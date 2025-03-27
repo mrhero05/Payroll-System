@@ -1,0 +1,138 @@
+c:\users\sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+c:\users\sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+c:\users\sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.xml
+c:\users\sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+c:\users\sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+c:\users\sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+c:\users\sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+c:\users\sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+c:\users\sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\Sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\Sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Form3.resources
+C:\Users\Sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\Sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\bin\Debug\system.accdb
+C:\Users\Sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\Sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\Sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\Sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\Sanchez\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\bin\Debug\system.accdb
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Form3.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Kenneth\Thesis\System\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\bin\Debug\system.accdb
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Form3.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\admin\Desktop\Kenneth\Thesis\System\New folder\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\system.accdb
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\system.accdb
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\admin\Desktop\New folder\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\system.accdb
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\admin\Desktop\Payroll System\payrollsystem(working)\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.codeform.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.Form2.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.grid.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.Main.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.loginform.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.Resources.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.register.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.registercode.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.salary.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.Settings.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.updateemployee.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.View.resources
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.vbproj.GenerateResource.Cache
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\bin\Debug\PayrollSystem.xml
+C:\Users\Sanchez\Documents\Visual Studio 2010\Projects\PayrollSystem Oct 12\PayrollSystem\obj\x86\Debug\PayrollSystem.report.resources
